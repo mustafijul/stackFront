@@ -10,7 +10,7 @@ const Blogs = () => {
           className="block max-w-sm gap-3 mx-auto sm:max-w-full group hover:no-underline focus:no-underline lg:grid lg:grid-cols-12 bg-gray-900"
         >
           <img
-            src="/src/assets/memory.jpg"
+            src="/public/memory.jpg"
             alt=""
             className="object-cover w-full h-64 rounded sm:h-96 lg:col-span-7 bg-gray-500"
             data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
@@ -35,7 +35,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">
@@ -59,7 +59,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">
@@ -83,7 +83,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">
@@ -107,7 +107,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">
@@ -131,7 +131,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">
@@ -155,7 +155,7 @@ const Blogs = () => {
             <img
               role="presentation"
               className="object-cover w-full rounded h-44 bg-gray-500"
-              src="/src/assets/memory.jpg"
+              src="/public/memory.jpg"
               data--porda-condition="CheckingByMutationObserver-NodeSrcUpdateds"
             />
             <div className="p-6 space-y-2">

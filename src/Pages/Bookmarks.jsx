@@ -20,7 +20,7 @@ const Bookmark = () => {
       <div className="rounded overflow-hidden shadow-lg">
         <img
           className="w-full h-64 object-cover"
-          src="/src/assets/thumbnail.jpg"
+          src="/public/memory.jpg"
           alt="Blog Cover"
         />
         <div className="p-6">
