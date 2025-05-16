@@ -3,7 +3,7 @@ import { Link, NavLink } from "react-router-dom";
 
 const Navbar = () => {
   const [theme, setTheme] = useState("light");
-  // doing this for toggle and store the theme when page refreshed
+  // doing this for toggle and store the theme in local storage when page refreshed
   useEffect(() => {
     localStorage.setItem("theme", theme);
     const localTheme = localStorage.getItem("theme");
@@ -54,7 +54,7 @@ const Navbar = () => {
           </NavLink>
         </ul>
         {/* Theme Controller */}
-        <label className="toggle text-base-content">
+        <label className="toggle text-base-content ms-2">
           <input
             type="checkbox"
             onChange={handleToggle}

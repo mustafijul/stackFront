@@ -1,10 +1,11 @@
 import React from "react";
 import Navbar from "../components/Navbar";
+import Hero from "../components/Hero";
 
 const Home = () => {
   return (
-    <div>
-      <h1>Assalamualaikum Home</h1>
+    <div className="flex flex-col items-center justify-center min-h-[calc(100vh-116px)]">
+      <Hero></Hero>
     </div>
   );
 };
